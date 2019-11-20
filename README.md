@@ -4,7 +4,7 @@ Exemplo do projeto turma do Universo IFMA 2019
 
 ## Getting Started
 
-Passo 1: Clone o projeto para sua máquina
+Clone o projeto para sua máquina
 
 ```sh
 git clone https://github.com/silasbrasil/universo_ifma_2019.git

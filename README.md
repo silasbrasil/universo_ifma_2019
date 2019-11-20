@@ -1,12 +1,21 @@
-# ifma_project_01
+# Universo IFMA 2019
 
-A new Flutter project.
+Exemplo do projeto turma do Universo IFMA 2019
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Passo 1: Clone o projeto para sua máquina
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+git clone https://github.com/silasbrasil/universo_ifma_2019.git
+```
+
+Após finalizar o download do projeto, acesse a pasta do projeto e execute os seguintes comandos:
+
+```sh
+flutter packages get
+flutter run
+```
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
